@@ -49,12 +49,8 @@ Um projeto representando um carrinho de compras.
 1. - Listar produtos
 2. - Adicionar itens
     * Selecionar produto por id
-        1. Apenas um        ┐
-                            |       1. Adicionar outro item
-                            =>      2. Listar carrinho
-                            |       3. Finalizar compra
-                            |       4. Retornar ao menu
-        2. Adicionar mais   ┘
+        1. Apenas um => 1. Adicionar outro item | 2. Listar carrinho | 3. Finalizar compra | 4. Returnar ao menu
+        2. Adicionar mais ┘
         0. Cancelar item/Retornar ao menu
 
 3. - Alterar/Remover item
