@@ -10,11 +10,7 @@ A project that represent a shoping cart.
 1. - List of products
 2. - Add itens
     * Select product id
-        1. Only one ┐
-                    |   1. Add other item
-                    =>  2. List the cart
-                    |   3. Finish purchase
-                    |   4. Return to menu
+        1. Only one => 1. Add other item | 2. List the cart | 3. Finish purchase | 4. Return to menu
         2. Add more ┘
         0. Cancel item/Return to menu
 
